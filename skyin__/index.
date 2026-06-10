@@ -1,0 +1,67 @@
+<!doctype html>
+
+<html>
+<head>
+<meta charset="utf-8">
+<title>邵可茵個人網站</title>
+<style>
+body{
+    background-image:url("IMG_9943.JPG");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    text-align:center;
+    color:#6AAB85;
+    font-size:24px;
+    cursor:pointer;
+}
+a{
+    text-decoration:none;
+    color:#6AAB85;
+    font-weight:bold;
+}
+table{
+    border-collapse:collapse;
+}
+td,th{
+    border:none;
+}
+</style>
+</head>
+<body>
+<h1>歡迎來到邵可茵的個人網站</h1>
+<img src="C4A2B001-6731-49F5-B589-CD5ECAA88137.jpg" width="800" height="250" alt="">
+<h2>個人簡介</h2>
+<p>
+您好！我是邵可茵，目前就讀亞洲大學資訊傳播學系四年級。<br>
+歡迎來到我的個人網站，在這裡可以認識我的成長歷程、家庭成員以及求學經歷。
+</p>
+<br>
+
+✨進入自我介紹頁✨
+
+<h2>社群媒體</h2>
+<a href="https://www.instagram.com/sky__0505_?igsh=OWNyMXlwb3gxeDdu&utm_source=qr" target="_blank">
+Instagram
+</a>
+
+   ｜   
+
+<a href="https://www.facebook.com/share/1EumA39a1o/?mibextid=wwXIfr" target="_blank">
+Facebook
+</a>
+<h2>聯絡方式</h2>
+<a href="mailto:skyin0505@gmail.com">
+📧 Email 聯絡我
+</a>
+<h2>網站瀏覽人數</h2>
+<p>訪客人數：1001 人</p>
+<audio autoplay loop controls>
+    <source src="【劇場版ハイキュー!!】主題歌『オレンジSPYAIR』.mp3" type="audio/mpeg">
+    您的瀏覽器不支援音樂播放功能。
+</audio>
+<p>
+© 2026 邵可茵個人網站
+</p>
+</body>
+</html>
